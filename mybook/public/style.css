@@ -1,0 +1,28 @@
+    .title {
+        text-align: center;
+        background-color: lightgreen;
+        height: 50px;
+        line-height: 50px;
+        font-size: 24px;
+        border-radius: 15px;
+        margin: 20px 20px 0 20px;
+    }
+    .content {
+        background-color: lightblue;
+        border-radius: 15px;
+        margin: 0 20px;
+    }
+    .content table {
+        width: 100%;
+        text-align: center;
+        border-right: 1px solid orange;
+        border-bottom: 1px solid orange;
+        border-radius: 15px;
+    }
+    .content td,th {
+        
+        border-left: 1px solid orange;
+        border-top: 1px solid orange;
+        height: 40px;
+        line-height: 40px;
+    }
